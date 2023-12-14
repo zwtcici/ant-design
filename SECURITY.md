@@ -1,16 +1,2 @@
-# Security Policy
-
-## Supported Versions
-
-Use this section to tell people about which versions of your project are currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 4.x     | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a reported vulnerability, what to expect if the vulnerability is accepted or declined, etc.
+1.如何修改默认样式，v5配置的them不能满足设计需求，如何按照引入的css或less文件修改？？
+![image](https://github.com/ant-design/ant-design/assets/53460851/640aa80c-0f78-4425-b36d-84e8fd4abcff)
